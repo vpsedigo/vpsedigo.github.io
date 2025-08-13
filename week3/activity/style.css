@@ -1,0 +1,90 @@
+body{
+    background-color:rgb(21, 56, 121)
+}
+p{
+    color: white;
+}
+ul{
+    color: white;
+}
+.li1{
+    color: red;
+    font-style:italic;
+}
+.li2{
+    color: purple;
+    font-weight: bold;
+}
+.myspan{
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.head1{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: right;
+}
+.head2{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.ms1{
+    color: yellow;
+    text-decoration: underline;
+}
+.ms2{
+    color:blue;
+}
+.ms3{
+    color: rgb(12, 217, 12);
+    font-weight: bold;
+}
+.head3{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: left;
+    text-align: top;
+    background-color: black;
+    border-top: 2px solid maroon;
+    border-left: 2px solid red;
+    width:50%;
+    height: 60%;
+}
+.ms4{
+    color:blue;
+    font-style:italic;
+}
+.ms5{
+    color: red;
+    font-weight: bold;
+}
+.ms6{
+    color: black;
+    background-color: lime;
+}
+.head4{
+    color: lime;
+    font-size: 20px;
+    font-weight: bold;
+}
+.par1{
+    font-style:italic;
+    background-color: black;
+    border-left: 2px solid red;
+    border-right: 2px solid yellow;
+    text-align: center;
+}
+.head5{
+    color: yellow;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration-style: solid;
+}
+.par2{
+    background-color: red;
+}

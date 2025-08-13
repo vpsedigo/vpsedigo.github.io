@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
+body{
+    background-image:url("images/swift_M31_mosaic_1600.jpg");
+    background-size: cover;
+}
+h1{
+    font-family: "Carattere", cursive;
+    color: rgb(178, 127, 255);
+    font-size: 50px;
+    background-color:rgb(55, 27, 71);
+    border: 4px solid rgb(31, 36, 76);
+    padding: 10px;
+    text-align: center;
+    width: 25%;
+    margin: 25%;
+}
+p{
+    color: cadetblue;
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(55, 52, 52);
+    width: 25%;
+}
+.myspan{
+    color: purple;
+    text-decoration: underline;
+}
+.par1{
+    color: darkorange;
+}
