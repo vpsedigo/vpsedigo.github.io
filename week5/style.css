@@ -1,0 +1,40 @@
+.box{
+    width: 30%;
+    border:1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 7px 7px 0 0;
+}
+.box:hover{
+    box-shadow: 7px 7px 0 0 rgb(156, 71, 104);
+    background: #8694de;
+    background: radial-gradient(circle, rgb(127, 142, 214) 0%, rgb(194, 147, 211) 51%, rgb(184, 72, 94) 100%);
+}
+.boxHeader{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    border-bottom: 1px solid black;
+} 
+h2, p{
+    margin:0;
+}
+p{
+    margin-bottom: 20px;
+}
+.btn{
+    border:none;
+    background: #EEAECA;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    padding: 10px;
+    border-radius: 100px;
+}
+.btn:hover{
+    background: #dea24e;
+    background: radial-gradient(circle, rgb(98, 202, 223) 0%, rgb(61, 192, 176) 100%);
+    cursor: pointer;
+}
+.boxMain{
+    display: flex;
+    gap: 20px;
+}

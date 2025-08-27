@@ -1,0 +1,55 @@
+.main{
+    border: 2px solid darkgray;
+    border-radius: 100px;
+    padding: 20px 40px;
+    justify-content: center;
+    align-items: center;
+}
+.contents{
+    display: flex;
+    gap: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+}
+.wifi{
+    display: flex;
+    border-radius: 10px;
+    padding: 5px;
+}
+.room{
+    display: flex;
+    border-radius: 10px;
+    padding: 5px;
+}
+.bath{
+    display: flex;
+    border-radius: 10px;
+    padding: 5px;
+}
+.space{
+    display: flex;    
+    border-radius: 10px;
+    padding: 5px;
+}
+.wifi:hover{
+    background-color: #004588;
+    cursor: pointer;
+}
+.room:hover{
+    background-color: #004588;
+    cursor: pointer;
+}
+.bath:hover{
+    background-color: #004588;
+    cursor: pointer;
+}
+.space:hover{
+    background-color: #003366;
+    cursor: pointer;
+}
+h3, span{
+    margin: 0;
+}
